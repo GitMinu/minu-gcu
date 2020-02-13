@@ -3,4 +3,4 @@ div {display:block;}
 #container {width:800px;margin:40px auto auto 60px;}
 #pic {margin:20px 20px 20px 20px;float:right;}
 #Name {margin-bottom:15px;font-size:38;font-weight:bold;letter-spacing:-2px;border-bottom:1px solid #999;}
-p{display:block;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0px;margin-inline-end:0px;}
+p{display:inline-block;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0px;margin-inline-end:0px;}
