@@ -1,4 +1,4 @@
 body {background-color: #C0C0C0; font: Helvetica}
 div{display:block;}
 #container{width:900px;margin:50px auto auto 50px;}
-#pic={margin:25px 25px 25px 25px;float:right;}
+#pic={margin:25px 25px 25px 25px;float:left;}
