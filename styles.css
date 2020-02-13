@@ -1,5 +1,5 @@
 body {background-color: #C0C0C0; font: Helvetica}
 div {display:block;}
 #container {width:800px;margin:50px auto auto 50px;}
-#pic {margin:10px 10px 10px 10px;float:right;}
+#pic {margin:20px 20px 20px 20px;float:right;}
 #Name {margin-bottom:15px;font-size:40;font-weight:bold;border-bottom:1px solid #999;}
