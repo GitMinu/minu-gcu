@@ -1,4 +1,4 @@
-body {margin:0,padding:0;background-color: #C0C0C0;borderwidth:1px;border-radious:15px;width:900px;font:Sans-serif; }
+body {margin:0,padding:0;background-color: #C0C0C0;borderwidth:1px;border-radious:15px;width:900px;font:16px Sans-serif; }
 div {display:block;}
 #container {width:800px;margin:40px auto 60px;}
 #pic {margin: 20px;float:right; width:20%;transform:rotate(15deg)}
