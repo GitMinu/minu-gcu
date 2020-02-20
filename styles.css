@@ -1,6 +1,6 @@
 body {background-color: #C0C0C0;}
 div {display:block;}
 #container {width:800px;margin:40px auto auto 60px;}
-#pic {margin:20px 50px 20px 30px;float:right; padding:30px,40px,20px,50px; width:20%;}
+#pic {margin:20px 50px 20px 30px;float:right; padding:30px 40px 20px 50px; width:20%;}
 #Name {margin-bottom:15px;font-size:38;font-weight:bold;letter-spacing:-2px;border-bottom:1px solid #999;}
 p{display:inline-block;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0px;margin-inline-end:0px;}
