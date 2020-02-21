@@ -1,14 +1,7 @@
-body {margin:0,padding:0;background-color: EEEEEE;font:16px Sans-serif; }
-#button {
-  margin-left: 40%;
-  margin-right: 40%;
-  background-color: #213862;
-  border-radius: 15px;
-  height: 100px;
-}
+body {margin:0;padding:0;background-color: EEEEEE;font:16px Sans-serif; }
 div {display:block;}
 #container {width:800px;margin:40px 50px auto 60px;}
-#pic {margin: 20px;float:right; width:20%;transform:rotate(15deg)}
+#pic {margin: 20px;float:right; width:20%;transform:rotate(15deg);}
 #Name {margin-bottom:15px;font-size:38;font-weight:bold;letter-spacing:-2px;border-bottom:1px solid #999;overflow:hidden;}
 p{display:inline-block;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0px;margin-inline-end:0px;}
 #objective{font-style:italic;margin:0px 0px 18px 0px;padding:0px 0px 25px 0px;font-size:20px;}
