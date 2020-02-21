@@ -6,5 +6,7 @@ div {display:block;}
 p{display:inline-block;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0px;margin-inline-end:0px;}
 #objective{font-style:italic;margin:0px 0px 18px 0px;padding:0px 0px 25px 0px;font-size:20px;}
 #professionalexperience{font-size:28;}
-
+h3{border-bottom:1px solid #999}
+.date{float:right;vertical-align:top;}
+h4{}
 
